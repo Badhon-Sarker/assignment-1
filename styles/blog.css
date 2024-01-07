@@ -1,0 +1,98 @@
+/* common-shares-tyle */
+body{
+
+    font-family: 'Merriweather', serif;
+}
+
+/* main section */
+
+main{
+     
+   max-width: 1320px;
+   margin: 0px auto;
+
+}
+
+/* heading style */
+
+
+.heading-div{
+   background-image: url('../resources/Banner\ Image.png');
+    height: 600px;
+     background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom:120px;
+    border-radius: 16px;
+    
+    
+}
+
+.heading-greetings{
+     color: #e3c0c0;
+     text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400; 
+}
+
+.heading-message{
+     color: #decbcb;
+     text-align: center;
+     font-family: Merriweather;
+     font-size: 72px;
+     font-weight: 900;
+}
+
+
+.heading-content{
+    display: block;
+    padding: 130px 344px;
+
+}
+
+/* discount-div */
+
+.discount-div{
+    margin: 120px 350px;
+    padding: 10px;
+    /* border: solid black;
+     */
+}
+
+.discount-offer{
+    text-align: center;
+}
+
+.percentage{
+    color: #F00;
+   text-align: center;
+   font-size: 50px;
+   font-weight: 700;
+   margin-bottom: 30px;
+
+}
+
+.offer-message{
+    color: #F00;
+     text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.catagory-message{
+    color: #070211;
+    text-align: center;
+    font-family: marriweather;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+
+.offer-image{
+    height: 300px;
+}
+

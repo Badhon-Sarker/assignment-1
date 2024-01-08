@@ -253,10 +253,14 @@ main{
 
 
 .gift-image{
-    margin: 5px;
+    padding: 5px;
 
 }
 
+
+.image-column .gift-image:hover{
+    background-color: rgb(80, 77, 78);
+}
 
 
 

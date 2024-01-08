@@ -221,7 +221,7 @@ main{
 }
 
 .subscribe-email{
-    margin-left: 350px;
+    margin-left: 200px;
     border-radius: 2px;
 }
 
@@ -232,6 +232,33 @@ main{
     font-size: 20px;
      font-weight: 400;
 }
+
+.subscribe-btn{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    height: 50px;
+    width: 150px;
+    margin-left: 0px;
+}
+
+.subscribe-input{
+    border-radius: 50px 0px 0px 50px;
+    height: 45px;
+    width: 350px;
+    margin-right: -5px;
+   
+}
+
+
+/* .subscribe-icon-text{
+    color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+} */
 
 
 

@@ -146,6 +146,75 @@ main{
 }
 
 
+/* best-offer-section */
+
+
+.best-offer-container{
+
+    margin-top: 120px;
+    margin-bottom: 120px;
+    display: flex;
+    
+}
+
+
+.best-offer-left{
+    margin: 150px 40px 100px 0px;
+}
+
+.best-offer-intro{
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.best-offer-title{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+
+.best-offer-description{
+     color: rgba(7, 2, 17, 0.60);
+     font-family: Inter;
+     font-size: 20px;
+     font-weight: 400;
+}
+
+.bstimcntr{
+
+    
+    border-radius: 463px;
+    border: 15px solid #F00;
+    margin: 80px 100px 80px 80px;
+    padding: 10px;
+
+}
+
+
+
+.best-offer-right{
+    margin: 80px 0px 80px 100px;
+    justify-content: right;
+    
+}
+
+.best-offer-year{
+    color: #F00;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+
+
+
      /* gift-section */
 
 
@@ -187,6 +256,9 @@ main{
     margin: 5px;
 
 }
+
+
+
 
 /* subcribe-section */
 
@@ -249,16 +321,6 @@ main{
    
 }
 
-
-/* .subscribe-icon-text{
-    color: #FFF;
-
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-} */
 
 
 
